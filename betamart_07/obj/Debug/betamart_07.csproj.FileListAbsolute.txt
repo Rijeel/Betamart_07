@@ -1,0 +1,11 @@
+D:\Tugas\betamart_07\betamart_07\bin\Debug\mydb.accdb
+D:\Tugas\betamart_07\betamart_07\bin\Debug\betamart_07.exe.config
+D:\Tugas\betamart_07\betamart_07\bin\Debug\betamart_07.exe
+D:\Tugas\betamart_07\betamart_07\bin\Debug\betamart_07.pdb
+D:\Tugas\betamart_07\betamart_07\obj\Debug\betamart_07.csprojAssemblyReference.cache
+D:\Tugas\betamart_07\betamart_07\obj\Debug\betamart_07.Form1.resources
+D:\Tugas\betamart_07\betamart_07\obj\Debug\betamart_07.Properties.Resources.resources
+D:\Tugas\betamart_07\betamart_07\obj\Debug\betamart_07.csproj.GenerateResource.cache
+D:\Tugas\betamart_07\betamart_07\obj\Debug\betamart_07.csproj.CoreCompileInputs.cache
+D:\Tugas\betamart_07\betamart_07\obj\Debug\betamart_07.exe
+D:\Tugas\betamart_07\betamart_07\obj\Debug\betamart_07.pdb
